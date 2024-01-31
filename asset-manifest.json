@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-basic-concepts/static/js/main.344e0823.js",
-    "index.html": "/react-basic-concepts/index.html",
-    "main.344e0823.js.map": "/react-basic-concepts/static/js/main.344e0823.js.map"
+    "main.js": "/basic-concepts-state/static/js/main.344e0823.js",
+    "index.html": "/basic-concepts-state/index.html",
+    "main.344e0823.js.map": "/basic-concepts-state/static/js/main.344e0823.js.map"
   },
   "entrypoints": [
     "static/js/main.344e0823.js"
